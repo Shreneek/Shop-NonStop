@@ -9,12 +9,12 @@
 
 # How to Access my Website:
 
-1.You have to open index.html to see main page of SNS.
-2.Now you can enjoy shopping of fresh and awesome 50+ products.
-3.Main page is designed such a way that it contains 2 navbars,10 sections which includes top trending & offers responsive slider (carousel),Electronic's Top categories,Best Deals of products with 4 tabs,Limited time deals with timer,SNS specials and many more, just go on scrolling and enjoy my website.
-4.You can see Sign-In/Sign-Up pg too. 
-5.You can also add some of the products (that comes under main page) to the cart and it will open dialog box showing procuct added to cart. Check that product in cart.html or by clicking on shopping bag icon in navbar.
-6.ALL products has it's own html files and product pages are very attractive like Amazon with special features where you can hover on product img to see zoom-in img and many more.
+1. You have to open index.html to see main page of SNS.
+2. Now you can enjoy shopping of fresh and awesome 50+ products.
+3. Main page is designed such a way that it contains 2 navbars,10 sections which includes top trending & offers responsive slider (carousel),Electronic's Top categories,Best Deals of products with 4 tabs,Limited time deals with timer,SNS specials and many more, just go on scrolling and enjoy my website.
+4. You can see Sign-In/Sign-Up pg too. 
+5. You can also add some of the products (that comes under main page) to the cart and it will open dialog box showing procuct added to cart. Check that product in cart.html or by clicking on shopping bag icon in navbar.
+6. ALL products has it's own html files and product pages are very attractive like Amazon with special features where you can hover on product img to see zoom-in img and many more.
 
 
 # Finally, this is just the project, I have made for practice and for my 4th semester mini project, it is not actual shopping website but it is similar it.
